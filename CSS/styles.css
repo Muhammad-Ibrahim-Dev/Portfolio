@@ -84,7 +84,8 @@ footer {
   background: #343a40;
   color: white;
   text-align: center;
-  padding: 20px;
+  padding-top: 10px;
+  padding-bottom: 1px;
 }
 
 @media (max-width: 768px) {
