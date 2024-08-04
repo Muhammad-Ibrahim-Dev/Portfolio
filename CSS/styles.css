@@ -3,7 +3,6 @@ body {
   background-color: #ffffff; /* Light background color for the page */
   color: #333; /* Dark text color for readability */
   margin: 0; /* Reset margin to avoid unintended spacing issues */
-  scroll-behavior: smooth;
 }
 
 .header {
